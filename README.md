@@ -1,0 +1,2 @@
+# Roomservice
+local_manifests
